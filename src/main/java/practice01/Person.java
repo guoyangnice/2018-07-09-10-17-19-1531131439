@@ -1,7 +1,5 @@
 package practice01;
 
-import java.math.BigDecimal;
-
 public class Person {
 	private String name;
 	private int age;
